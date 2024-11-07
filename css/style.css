@@ -101,3 +101,93 @@ nav{
     right: 15px;
 }
 /* Banner ends */
+/* work start */
+.work{
+
+    background: #F4F6FC;
+        padding: 100px 0px;
+
+    
+}
+
+.work .left h2{
+    color: #000;
+    font-size: 54px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    line-height: 74px;
+   
+}
+.work .left {
+    position: relative;
+}
+.work .left p{
+    color: #000;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    width: 500px;
+    padding-top: 24px;
+    padding-bottom: 20px;
+}
+
+.work .left .work_btn {
+    color: #2405F2;
+    padding: 16px 48px;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    transition: 0.4s;
+    position: absolute;
+    top: 190px;
+    left: -48px;
+}
+.work .left .work_btn{
+    color: #2405F2;
+}
+.work .left .work_btn .btnIcon {
+    position: absolute;
+    top: 21px;
+    right: 15px;
+}
+.work .right_up{
+    display: flex;
+    padding-bottom: 30px;
+}
+.work .right_up .one h3{
+    color: #000;
+    padding-top: 10px;
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    line-height: 48px;
+}
+.work .right_up .one p{
+    color: #000;
+    padding-top: 10px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    width: 310px;
+    line-height: 28px;
+}
+.work .right_down{
+    display: flex;
+}
+.work .right_down .two h3{
+    color: #000;
+    padding-top: 10px;
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    line-height: 48px;
+}
+.work .right_down .two p{
+    color: #000;
+    padding-top: 10px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    width: 310px;
+    line-height: 28px;
+}
+/* work ends */
