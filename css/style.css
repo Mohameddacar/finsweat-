@@ -93,5 +93,11 @@ nav{
     font-size: 18px;
     padding: 16px 48px;
     transition: 0.4s;
+    position: relative;
+}
+.banner .left .banner_btn2 .btnIcon {
+    position: absolute;
+    top: 21px;
+    right: 15px;
 }
 /* Banner ends */
